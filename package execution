@@ -1,0 +1,1 @@
+  for o/p : javac -d .  person.java Student.java eligible.java
