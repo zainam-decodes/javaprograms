@@ -11,7 +11,7 @@ class switchh{
                 day = "MONDAY";
                 break;
              case 3:
-                day = "TUEDAY";
+                day = "TUESDAY";
                 break;
              case 4:
                 day = "WEDNESDAY";
