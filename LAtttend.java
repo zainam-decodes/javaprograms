@@ -18,7 +18,7 @@ class LAttend extends Exception
                    double p=(at/h)*100;
                    System.out.println("percentage is " +p);
                    if(p<75) {
-                          LAttend lat=new LAttend("You are not allowed for java lab exam ");
+                          LAttend lat=new LAttend("YOU ARE NOT ALLOWED FOR JAVA LAB EXAM ");
                         throw lat; 
                            } 
                             }  
