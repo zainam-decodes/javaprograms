@@ -1,4 +1,4 @@
-class Stringcomp{
+class Stringgg{
           public static void main(String[] args){
                String fname="java ";
                String lname=new String("lab");
