@@ -14,7 +14,7 @@ class LAttend extends Exception
                    System.out.println("Enter the held classes : ");
                    double h=Double.parseDouble(br.readLine());
                    System.out.println("Enter the attended classes : ");
-                   double at=Double.parseDouble(br.readline());
+                   double at=Double.parseDouble(br.readLine());
                    double p=(at/h)*100;
                    System.out.println("percentage is " +p);
                    if(p<75) {
