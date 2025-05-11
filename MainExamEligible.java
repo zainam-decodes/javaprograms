@@ -3,7 +3,7 @@ import studentinfo;
 {
      public static void main(String[] args)
  {
-      Eligible st= new Eligible("Mustafa",48);
-         st.checkEligible();
+      eligible st= new eligible("Mustafa",48);
+         st.checkeligible();
 }
 }
