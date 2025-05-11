@@ -5,7 +5,7 @@ class StringBuild{
             System.out.println("Enter the String");
             String s1=sc.next();
             s1.concat("hey");
-            System.out.println("String after concatenation is  "+s1);
+            System.out.println("String before concatenation is  "+s1);
             StringBuilder sb=new StringBuilder("hello");
             sb.append("hi");
             System.out.println("string after appending is "+sb);
