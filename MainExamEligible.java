@@ -4,6 +4,6 @@ import studentinfo;
      public static void main(String[] args)
  {
       eligible st= new eligible("Mustafa",48);
-         st.checkeligible();
+         st.checkEligible();
 }
 }
