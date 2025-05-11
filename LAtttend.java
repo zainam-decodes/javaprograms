@@ -16,7 +16,7 @@ class LAttend extends Exception
                    System.out.println("Enter the attended classes : ");
                    double at=Double.parseDouble(br.readLine());
                    double p=(at/h)*100;
-                   System.out.println("percentage is " +p);
+                   System.out.println("Attendance percentage is : " +p);
                    if(p<75) {
                           LAttend lat=new LAttend("YOU ARE NOT ALLOWED FOR JAVA LAB EXAM ");
                         throw lat; 
