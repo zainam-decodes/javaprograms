@@ -1,4 +1,4 @@
-import studentinfo;
+import studentinfo.*;
     class MainExamEligible 
 {
      public static void main(String[] args)
